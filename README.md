@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/swarnav-kumar-49a86b257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://leetcode.com/swarnav786/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23000000?style=for-the-badge&logo=leetcode&logoColor=logoColor%3Dwhite" alt="Kaggle Badge"/>
+  </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Swarnav-Kumar&style=flat-square&color=blue" alt=""/>
 </div>
